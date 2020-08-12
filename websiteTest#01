@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<html>
+<head>
+<meta http-equiv="Content-Type"content="text/html;charset=iso-8859-1">
+<title>Welcome to APMC!</title>
+</head>
+<body>
+<body style="background-color:powderblue;">
+<h1>Welcome to the Website!</h1>
+<div class="wrap">
+	<div class="title-area">
+		<p class="site-title" itemprop="headline"></p>
+			
+<img src="images/pines.png" alt="Cusrsed Birthday Party">
+<br>
+<img src="https://images.pexels.com/photos/176851/pexels-photo-176851.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Interestingly Asthetic Image Taken Off Of The Internet" width="500" height="86">
+
+<p>The image above is purely for asthetics</p>
+<p>Let me know if it is working</p>
+#<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mQyfGkBJpf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br><br>
+<div align="centr">
+<a href="https://psychcentral.com/personquiz.ht,">
+<img src="https://psychcentral.com/images/person_friend.gif"
+alt="The Loyal Friend"width="200"
+height="90"border="0"></a></div>
+#
+#
+<br>Consider putting the text below in the doctype section of source code buddy
+<br><br>HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4loose.dtd"<br><br>
+<p>This is our prototype website!</p>
+<p>If you do not know why you are here, please refer to the course guidelines/expectations worksheet</p>
+<p>If severely confused, please contact me through any contact posted in the Google Classroom, or through my business email(below):<br>
+smith.it.net@gmail.com</p>
+<h2>Time for some html notes</h2>
+<h3 style ="color:red;">Zoom Join Buttons:<br></h2>
+<button><a href="https://zoom.us/j/523639568"><p title="Chemistry Zoom Launch; Password: 7tyzvy">Click on me to join chemistry class on zoom</p></a></button><br>
+<br>
+<button><a href="https://zoom.us/j/288642132?pwd=UU1Wajk5TWLIvSExnN0ZEemFTbUM5dz09"><p title="Literature Zoom Launch; Password: 012351">Click on me to join literature class on zoom</p></a></button>
+<br><br>
+<button><a href="https://zoom.us/j/555607313"><p title="AVID Launch; Password: 3hjDWS">Click on me to join AVID class on zoom</p></a></button><br>
+<br>
+<p style="font
+
+
+<p title="The link directly underneath me does not work. Try the one linked in the button.">
+The link next to this is in the code. Remember how to use it.
+</p>
+<a href="classroom.google.com">This is the link to Google Classroom website</a>
+
+<br><p title="Please remember to do this at some point">At some point, we should incorporate python into html. You already have python and html training, and it's about time that you used it.</p>
+
+
+<button><a href="https://www.youtube.com"><p title="This is a link to YouTube">Click me. I don't think I do anything. But if this works it will take you to YouTube</p></a></button>
+<p>This is a bulleted list:</p>
+<ul>
+	<li>Coffee</li>
+	<li>Milk</li>
+	<li>Tea</li>
+</ul>
+
+<p>This is a numbered list:</p>
+<ol>
+	<li>Coffee</li>
+	<li>Milk</li>
+	<li>Tea</li>
+</ol>
+
+<p title="I'm a tooltip">
+Hover the cursor over the text to see a hidden tip
+</p>
+<p title="Please join my class. I want to die."><p>You should consider joining Minecraft Honors: Preperatory Course<br>All of my students are killing me<br>I need new ones ASAP</p>
+<p>If you are interested, please contact me through the contact information above.</p>
+
+<p style="font-family:arial;">Is this in a different font? This should be arial.</p>
+<p title="These are different forms of text.">In addition,<b> this should be in bold</b>, <i>This should be in italics</i>, <u>and this should be underlined</u>.</p>
+
+
+<h3 style="text-align:center;">Let's play Minecraft!</h3>
+<p style="text-align: center-left; font-family: courier; color: red" title="Yes it did.">Did this work?</p>
+
+<strong><p style="text-align:left">Does this look strong to you by any means</p></strong>
+<br>
+<bdo dir="rtl">This text will be written from right to left</bdo>
+<!You should not be able to see this, but this is a comment. If you can see this, please let me know as soon as possible. >
+
+
+</body>
+</html>
